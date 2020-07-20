@@ -52,3 +52,21 @@ Correct PCIe Slot ID.
 Correct PCIe Slot ID.
 
 --------------------
+8.  commit :
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+Configure GPP_C22 and GPP_E7 as GPIO input pins
+
+--------------------
