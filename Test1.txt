@@ -87,7 +87,8 @@ Fix SCU IIO device show "Undefined" speed string on Gen 4 device
 Fix SCU IIO device show "Undefined" speed string on Gen 4 device
 Fix SCU IIO device show "Undefined" speed string on Gen 4 device
 
---------------------================================================
+--------------------
+================================================
 Switch to Branch A
 ================================================
 Commit another change to this branch
