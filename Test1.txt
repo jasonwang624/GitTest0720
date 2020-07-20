@@ -82,4 +82,11 @@ Inverse GPP_D0 pin as Low active for trigger NMI
 Inverse GPP_D0 pin as Low active for trigger NMI
 Inverse GPP_D0 pin as Low active for trigger NMI
 
--------------------
+------------------------------------------------
+2020/07/20           Number:001
+Symptom : Fix VGA yellow mark in device manager.
+Cause   : 
+Fixed   : 
+Files   : 
+Note    : 
+------------------------------------------------
