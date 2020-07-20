@@ -80,3 +80,11 @@ Merge code change based on 2019-11-14
 Merge code change based on 2019-11-14
 
 --------------------
+10.  commit :
+Fix SCU IIO device show "Undefined" speed string on Gen 4 device
+Fix SCU IIO device show "Undefined" speed string on Gen 4 device
+Fix SCU IIO device show "Undefined" speed string on Gen 4 device
+Fix SCU IIO device show "Undefined" speed string on Gen 4 device
+Fix SCU IIO device show "Undefined" speed string on Gen 4 device
+
+--------------------
