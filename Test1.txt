@@ -70,3 +70,13 @@ Configure GPP_C22 and GPP_E7 as GPIO input pins
 Configure GPP_C22 and GPP_E7 as GPIO input pins
 
 --------------------
+9. commit :
+Merge code change based on 2019-11-14
+Merge code change based on 2019-11-14
+Merge code change based on 2019-11-14
+Merge code change based on 2019-11-14
+Merge code change based on 2019-11-14
+Merge code change based on 2019-11-14
+Merge code change based on 2019-11-14
+
+--------------------
