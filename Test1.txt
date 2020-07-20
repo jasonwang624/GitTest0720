@@ -70,3 +70,16 @@ Configure GPP_C22 and GPP_E7 as GPIO input pins
 Configure GPP_C22 and GPP_E7 as GPIO input pins
 
 --------------------
+================================================
+Switch to Branch A
+================================================
+Commit another change to this branch
+
+Ex.
+Inverse GPP_D0 pin as Low active for trigger NMI
+Inverse GPP_D0 pin as Low active for trigger NMI
+Inverse GPP_D0 pin as Low active for trigger NMI
+Inverse GPP_D0 pin as Low active for trigger NMI
+Inverse GPP_D0 pin as Low active for trigger NMI
+
+-------------------
